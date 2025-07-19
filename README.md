@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 
 ## 🌐 Live Demo
 
-👉 [View Portfolio](https://kushalkush12.github.io/Portfolio/)
+👉 [View Portfolio](https://portfolio-orcin-tau-24.vercel.app/)
 
 ## 📁 Folder Structure
 
