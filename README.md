@@ -9,10 +9,10 @@ Welcome to my personal portfolio website! This site showcases my skills, project
 ## 📁 Folder Structure
 
 Portfolio/
-├── index.html # Main HTML page
-├── style.css # Custom styling
-├── script.js # JavaScript 
-└── README.md # This file
+- ├── index.html # Main HTML page
+- ├── style.css # Custom styling
+- ├── script.js # JavaScript 
+- └── README.md # This file
 
 
 ## ✨ Features
